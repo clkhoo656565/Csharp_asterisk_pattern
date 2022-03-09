@@ -1,0 +1,16 @@
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\bin\Debug\net5.0\Asterisk_pattern.exe
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\bin\Debug\net5.0\Asterisk_pattern.deps.json
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\bin\Debug\net5.0\Asterisk_pattern.runtimeconfig.json
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\bin\Debug\net5.0\Asterisk_pattern.runtimeconfig.dev.json
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\bin\Debug\net5.0\Asterisk_pattern.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\bin\Debug\net5.0\ref\Asterisk_pattern.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\bin\Debug\net5.0\Asterisk_pattern.pdb
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\obj\Debug\net5.0\Asterisk_pattern.csproj.AssemblyReference.cache
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\obj\Debug\net5.0\Asterisk_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\obj\Debug\net5.0\Asterisk_pattern.AssemblyInfoInputs.cache
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\obj\Debug\net5.0\Asterisk_pattern.AssemblyInfo.cs
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\obj\Debug\net5.0\Asterisk_pattern.csproj.CoreCompileInputs.cache
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\obj\Debug\net5.0\Asterisk_pattern.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\obj\Debug\net5.0\ref\Asterisk_pattern.dll
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\obj\Debug\net5.0\Asterisk_pattern.pdb
+C:\Users\ckhoo5\OneDrive - DXC Production\Documents\C_Sharp interview questions\Asterisk_pattern\obj\Debug\net5.0\Asterisk_pattern.genruntimeconfig.cache
