@@ -1,5 +1,5 @@
 # Csharp_asterisk_pattern
-Asterisk pattern with C#
+Underscore and Asterisk pattern based on user input number by C#
 
 ### The output of the program will be _* depend on the input number by user:
 - If user input 3, then the output will be as following:
