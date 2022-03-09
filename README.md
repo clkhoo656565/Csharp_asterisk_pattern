@@ -18,6 +18,7 @@ _**** </br>
 ***** </br>
 
 - If user input 10, then the output will be as following:
+
 _________* </br>
 ________** </br>
 _______*** </br>
